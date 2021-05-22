@@ -45,7 +45,7 @@ p{
     padding-bottom: 100px;
 }
 .container-top-banner{
-    background-image: url("/images/header-bg.png");
+    background-image: url("header-bg.png");
     height: 900px;
 }
 
