@@ -1,0 +1,128 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 33px;
+}
+
+.pink-highlight{
+    font-size: 50px;
+    color: rgb(243, 32, 102);
+}
+.half-width{
+    width: 36%;
+    padding: 4%;
+    margin: 3%;
+    float: left;
+    display: inline;
+}
+
+.half-width img{
+    width: 100%;
+}
+
+p{
+    color: dimgray;
+}
+
+.link-button{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 20px;
+    background-image: linear-gradient(45deg, rgba(230, 94, 139, 0.836), rgb(243, 32, 102));
+    border-radius: 5px;
+}
+
+.container-height{
+    padding-bottom: 100px;
+}
+.container-top-banner{
+    background-image: url("/images/header-bg.png");
+    height: 900px;
+}
+
+.content-down-bio{
+    padding-top: 150px;
+}
+
+.container-biography{
+    background-image: url("/images/biography-bg.png");
+    height: 700px;
+}
+
+#latestwork{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.container-latestwork{
+    height: 600px;
+    padding: 4%;
+}
+.container-img-show img{
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+
+.container-bg-latestwork{
+   background-image: url("/images/latest-work-bg.png");
+   margin: 10px;
+}
+
+.container-footer h2{
+    text-align: center;
+}
+
+.container-footer h3{
+    padding-top: 80px;
+    text-align: center;
+}
+
+.container-footer{
+    background-image: url("/images/footer-bg.png");
+    height: 700px;
+    background-repeat: no-repeat;
+}
+
+#middle{
+    text-align: center;
+}
+
+blockquote{
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 251px;
+    padding-top: 30px;
+}
+
+.contact{
+    background-image: linear-gradient(45deg, rgba(230, 94, 139, 0.836), rgb(243, 32, 102));
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 50px;
+    margin: 50px 200px;
+}
+
+#contact-mail{
+    color: white;
+    font-size: 20px;
+}
+
+h4{
+    color: white;
+}
+
+#footer-text{
+    color: dimgray;
+    font-size: 15px;
+    text-align: center;
+}
