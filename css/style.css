@@ -11,6 +11,10 @@ h2{
     font-size: 33px;
 }
 
+.container-top-banner .half-width h1{
+    line-height: 20px;
+}
+
 .pink-highlight{
     font-size: 50px;
     color: rgb(243, 32, 102);
@@ -80,6 +84,7 @@ p{
 
 .container-footer h2{
     text-align: center;
+    line-height: -30px;
 }
 
 .container-footer h3{
@@ -89,7 +94,7 @@ p{
 
 .container-footer{
     background-image: url("/images/footer-bg.png");
-    height: 700px;
+    height: 750px;
     background-repeat: no-repeat;
 }
 
