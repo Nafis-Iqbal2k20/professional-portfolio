@@ -11,6 +11,10 @@ h2{
     font-size: 33px;
 }
 
+.container-top-banner .half-width h1{
+    line-height: 20px;
+}
+
 .pink-highlight{
     font-size: 50px;
     color: rgb(243, 32, 102);
@@ -45,7 +49,7 @@ p{
     padding-bottom: 100px;
 }
 .container-top-banner{
-    background-image: url("/images/header-bg.png");
+    background-image: url("../images/header-bg.png");
     height: 900px;
 }
 
@@ -54,7 +58,7 @@ p{
 }
 
 .container-biography{
-    background-image: url("/images/biography-bg.png");
+    background-image: url("../images/biography-bg.png");
     height: 700px;
 }
 
@@ -74,12 +78,13 @@ p{
 }
 
 .container-bg-latestwork{
-   background-image: url("/images/latest-work-bg.png");
+   background-image: url("../images/latest-work-bg.png");
    margin: 10px;
 }
 
 .container-footer h2{
     text-align: center;
+    line-height: -30px;
 }
 
 .container-footer h3{
@@ -88,8 +93,8 @@ p{
 }
 
 .container-footer{
-    background-image: url("/images/footer-bg.png");
-    height: 700px;
+    background-image: url("../images/footer-bg.png");
+    height: 750px;
     background-repeat: no-repeat;
 }
 
